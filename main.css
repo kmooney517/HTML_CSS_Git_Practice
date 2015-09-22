@@ -6,8 +6,20 @@ header {
   border: 2px solid black;
   
 }
+.posters{
+  border: 2px solid black;
+  padding: 1px;
+}
 
-.main {
+.first h3 {
+  color: blue;
+}
+
+.second h3 {
+  color: blue;
+}
+
+.third h3 {
   color: blue;
 }
 
@@ -19,10 +31,7 @@ ul {
  float: right;
 }
 
-.posters{
-  border: 2px solid black;
-  padding: 1px;
-}
+
 
 .main  ul {
   color: black;
