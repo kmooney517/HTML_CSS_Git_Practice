@@ -11,15 +11,7 @@ header {
   padding: 1px;
 }
 
-.first h3 {
-  color: blue;
-}
-
-.second h3 {
-  color: blue;
-}
-
-.third h3 {
+h3 {
   color: blue;
 }
 
@@ -40,6 +32,7 @@ ul {
 
 ul li {
   font-weight: normal;
+  font-size: 20px;
 }
 
 .review {
