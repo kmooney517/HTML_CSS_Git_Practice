@@ -9,6 +9,7 @@ header {
 .posters{
   border: 2px solid black;
   padding: 1px;
+  box-shadow: 2px solid black;
 }
 
 h3 {
@@ -40,7 +41,6 @@ ul li {
 
 body {
   background-color: beige;
-  border-radius: 2px solid black;
 }
 
 .footer {
@@ -53,6 +53,10 @@ body {
   font-family: cursive;
   font-weight: bold;
   background-image: url(http://goo.gl/v1w9sY);
+}
+
+.reviewr {
+  clear: both;
 }
 
 .nobullet {
