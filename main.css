@@ -4,8 +4,8 @@ header {
   font-family: cursive;
   font-size: x-large;
   border: 2px solid black;
-  
 }
+
 .posters{
   border: 2px solid black;
   padding: 1px;
@@ -40,6 +40,7 @@ ul li {
 
 body {
   background-color: beige;
+  border-radius: 2px solid black;
 }
 
 .footer {
