@@ -1,1 +1,1 @@
-#### This is my read me file
+#### This was my first attempt at using HTML and CSS to make a basic webpage.  There is no deployable link as the assignment was just practice.  I did use the codepen interface to see changes dynamically.
